@@ -1,0 +1,7 @@
+Error A Character Not Handeled
+5 11
++++++......
++ F +++++++
++ WW* #   +
++   +++++++
++++++......

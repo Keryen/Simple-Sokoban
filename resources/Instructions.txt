@@ -1,0 +1,13 @@
+Welcome to Sokoban!
+The goal of this game is to bring all boxes to the goal points.
+
+In order to play the game, there are some things you need to take into account:
+1. You cannot walk through walls.
+2. You cannot push boxes into walls.
+3. Only one box fits on one goal point.
+4. Both pushing and moving actions count 1 in the level score.
+5. You can undo actions or reset the level.
+6. You can save and load games anytime.
+7. The level finishes when all boxes are on goal positions and the game finishes when there are no more levels left to play.
+
+Enjoy and good luck!
