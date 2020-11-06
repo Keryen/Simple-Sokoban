@@ -1,4 +1,4 @@
-# Sokoban
+# Simple Sokoban
 
 * __By Enrique González Rodríguez, Manuel Hernández-Ros Bellosillo and Alejandro Rodríguez Fernández__
 
