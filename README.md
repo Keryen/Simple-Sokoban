@@ -1,6 +1,6 @@
-# Sokoban:
+# Sokoban
 
-* __By Jiahao Ji, Alejandro Rodríguez, Enrique González Rodríguez and Manuel Hernández-Ros Bellosillo__
+* __By Enrique González Rodríguez, Manuel Hernández-Ros Bellosillo and Alejandro Rodríguez Fernández__
 
 To start the game, compile the source files and run the executable file.
 
