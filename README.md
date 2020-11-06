@@ -29,6 +29,6 @@ S to move down and D to move to the right.
 The objective of the game is to complete the levels by pushing all the boxes to EndPoints which are displayed as blue points. After completing
 a level a menu with the completed level score and the global score will be shown, alongside with a button to move into the next level.
 
-All in all, Enjoy the game!
+All in all, enjoy the game!
 
  
