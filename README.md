@@ -2,6 +2,8 @@
 
 * __By Enrique González Rodríguez, Manuel Hernández-Ros Bellosillo and Alejandro Rodríguez Fernández__
 
+Link to download and play the game: https://keryen.itch.io/simple-sokoban
+
 To start the game, compile the source files and run the executable file.
 
 After running sokoban you will be shown the home screen of the game where you can start a new game by pressing "new game",
